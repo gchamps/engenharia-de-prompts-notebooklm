@@ -1,2 +1,2 @@
 # engenharia-de-prompts-notebooklm
-Projeto desenvolvido para explorar Engenharia de Prompt utilizando o NotebookLM como ferramenta de estudo e organização do conhecimento.
+Projeto de estudos utilizando NotebookLM para explorar Engenharia de Prompt aplicada à IA Generativa.
